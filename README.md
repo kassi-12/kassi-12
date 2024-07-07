@@ -49,7 +49,6 @@
     <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=oracle" />
     <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=azure" />
     <br>
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=javascript" />
