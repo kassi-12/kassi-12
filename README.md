@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abderrahmane+Kassimi!;" />
 </h1>
 
-<h3 align="center">A Junior DevOps from Morocco 🇲🇦</h3>
+<h3 align="center">A passionate software developer from Morocco 🇲🇦</h3>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:abdorahmankassimi12@gmail.com">
@@ -32,13 +32,28 @@
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=eel,bootstrap,mui,html,css,vscode,github,adobexd,figma,oracle,git,azure" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,express,sql,mongodb,c,java,nextjs,mysql,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,php,bash,mysql,oracle,tsql,sqlite,sqlplus,ssms,shell,git,vscode,pycharm,geany,vmware,azure,putty" /><br>
+</div>
+
+<h3 align="center">Programming Languages:</h3>
+<div align="center">
+    Python, C, C++, HTML, CSS, JavaScript, PHP, Scripting (bash)
+</div>
+<br/>
+<h3 align="center">Databases:</h3>
+<div align="center">
+    MySQL, Oracle (PL/SQL), Microsoft (TSQL), Python (LiteSQL), PHP (MySQL)
+</div>
+<br/>
+<h3 align="center">Tools:</h3>
+<div align="center">
+    Sqlplus, SSMS, Shell, Git, VSCode, Pycharm, Geany, VMware, Azure, Putty
 </div>
 
 <br/>
@@ -70,7 +85,7 @@
 <br/>
 
 <div align="center">
-<a href='https://www.buymeacoffee.com/abdorahmanl' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
