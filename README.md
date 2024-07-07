@@ -38,13 +38,33 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,php,bash,mysql,oracle,tsql,sqlite,sqlplus,ssms,shell,git,vscode,pycharm,geany,vmware,azure,putty" /><br>
+    <img src="https://skillicons.dev/icons?i=eel" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=mui" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=adobexd" />
+    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=oracle" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=azure" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=javascript" />
+    <img src="https://skillicons.dev/icons?i=typescript" />
+    <img src="https://skillicons.dev/icons?i=express" />
+    <img src="https://skillicons.dev/icons?i=sql" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=linux" />
 </div>
 
-<h3 align="center">Programming Languages:</h3>
-<div align="center">
-    Python, C, C++, HTML, CSS, JavaScript, PHP, Scripting (bash)
-</div>
+
 <br/>
 <h3 align="center">Databases:</h3>
 <div align="center">
