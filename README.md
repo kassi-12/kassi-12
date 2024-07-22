@@ -41,16 +41,7 @@
 </div>
 
 
-<br/>
-<h3 align="center">Databases:</h3>
-<div align="center">
-    MySQL, Oracle (PL/SQL), Microsoft (TSQL), Python (LiteSQL), PHP (MySQL)
-</div>
-<br/>
-<h3 align="center">Tools:</h3>
-<div align="center">
-    Sqlplus, SSMS, Shell, Git, VSCode, Pycharm, Geany, VMware, Azure, Putty
-</div>
+
 
 <br/>
 <hr/>
